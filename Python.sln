@@ -9,6 +9,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FurnitureShop", "FurnitureS
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonFunctions", "PythonFunctions\PythonFunctions.pyproj", "{82DD7A42-1603-4558-B84A-803ED4C4FDCA}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GettingReadyForPhysicsClass", "GettingReadyForPhysicsClass\GettingReadyForPhysicsClass.pyproj", "{5D8A9E43-1D40-47D3-99DE-FEF5276C77ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{67055B12-A318-428A-BB90-629AEF972168}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82DD7A42-1603-4558-B84A-803ED4C4FDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{82DD7A42-1603-4558-B84A-803ED4C4FDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8A9E43-1D40-47D3-99DE-FEF5276C77ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8A9E43-1D40-47D3-99DE-FEF5276C77ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
