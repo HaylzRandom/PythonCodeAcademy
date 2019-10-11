@@ -1,3 +1,5 @@
+# Basic app to test out syntax for Python
+
 my_age = 29
 half_my_age = 29 / 2
 greeting = 'Hello'
