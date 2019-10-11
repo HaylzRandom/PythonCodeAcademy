@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonSyntax", "PythonSynta
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FurnitureShop", "FurnitureShop\FurnitureShop.pyproj", "{67055B12-A318-428A-BB90-629AEF972168}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonFunctions", "PythonFunctions\PythonFunctions.pyproj", "{82DD7A42-1603-4558-B84A-803ED4C4FDCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{B234EA19-FA13-4BF8-9E27-7EA38F8B362C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67055B12-A318-428A-BB90-629AEF972168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{67055B12-A318-428A-BB90-629AEF972168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DD7A42-1603-4558-B84A-803ED4C4FDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DD7A42-1603-4558-B84A-803ED4C4FDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
